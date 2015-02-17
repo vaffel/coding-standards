@@ -1,0 +1,32 @@
+{
+    "strict": true,
+    "curly": true,
+    "camelcase": true,
+    "undef": true,
+    "latedef": "nofunc",
+    "eqeqeq": true,
+    "browser": true,
+    "node": true,
+    "es3": true,
+    "es5": false,
+    "esnext": false,
+    "moz": false,
+    "newcap": true,
+    "quotmark": "single",
+    "maxlen": 120,
+    "indent": 4,
+    "noarg": true,
+    "bitwise": false,
+    "unused": true,
+    "globals": {
+        "define": false,
+        "require": false,
+
+        "describe"   : false,
+        "it"         : false,
+        "before"     : false,
+        "beforeEach" : false,
+        "after"      : false,
+        "afterEach"  : false
+    }
+}
