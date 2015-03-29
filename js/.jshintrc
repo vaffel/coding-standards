@@ -22,6 +22,8 @@
         "define": false,
         "require": false,
 
+        "JSON": false,
+
         "describe"   : false,
         "it"         : false,
         "before"     : false,

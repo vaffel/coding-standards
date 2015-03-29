@@ -1,0 +1,25 @@
+{
+  "name": "vaffel-coding-standard",
+  "version": "1.0.1",
+  "description": "VaffelNinja coding standard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaffel/coding-standards.git"
+  },
+  "keywords": [
+    "coding-standard",
+    "vaffelninja"
+  ],
+  "author": {
+    "name": "VaffelNinja AS"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vaffel/coding-standards/issues"
+  },
+  "homepage": "https://github.com/vaffel/coding-standards"
+}
